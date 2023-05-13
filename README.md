@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">* Data scientist at Sber<br> * Higher School of Economics student <br>* NLP enjoyer</p>
+<p align="left"> 🛠 Data scientist at Sber<br> 📖 Higher School of Economics student <br> 🔆 NLP enjoyer</p>
 
 ###
 
@@ -28,5 +28,3 @@
 <p align="left"></p>
 
 ###
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itisdanil&layout=compact)](https://github.com/Itisdanil/github-readme-stats)
