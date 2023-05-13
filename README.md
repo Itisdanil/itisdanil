@@ -29,4 +29,4 @@
 
 ###
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itisdanill&layout=compact)](https://github.com/Itisdanil/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Itisdanil&layout=compact)](https://github.com/Itisdanil/github-readme-stats)
