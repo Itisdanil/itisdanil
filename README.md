@@ -10,7 +10,7 @@
 <h2 align="left">Technical skills</h2>
 
 💻 **Programming & Deployment**: Python, SQL, Git                                                                                            
-🔮 **ML & DL**: Scikit-learn, Catboost, Pytorch
+🔮 **ML & DL**: Scikit-learn, Catboost, Pytorch                                                                                               
 📝 **NLP**: Gensim, NLTK, spaCy, TorchText, Natasha, Pymorphy2, Transformers   
 📁 **Big Data**: Hadoop, Pyspark, Hive
 
