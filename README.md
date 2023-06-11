@@ -8,8 +8,8 @@
 ###
 
 <h2 align="left">Technical skills</h2>
-💻 **Programming & Deployment**: Python, SQL, Git
 
+💻 **Programming & Deployment**: Python, SQL, Git
 🔮 **ML & DL**: Scikit-learn, Catboost, Pytorch                                               
 📝 **NLP**: Gensim, NLTK, spaCy, TorchText, Natasha, Pymorphy2, Transformers   
 📁 **Big Data**: Hadoop, Pyspark, Hive
@@ -17,4 +17,4 @@
 ###
 
 <h2 align="left">Projects</h2>
-👀 [Medical_masks_detection](https://github.com/Itisdanil/Medical_masks_detection) - Detection of masks on people's faces
+👀 [Medical_masks_detection](../Medical_masks_detection) - Detection of masks on people's faces
