@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left"> 🛠 Data scientist<br> 📖 Higher School of Economics student <br> 🔆 Natural language processing enjoyer</p>
+<p align="left"> 🛠 Data scientist at Lamoda<br> 📖 Higher School of Economics student <br> 🔆 Natural language processing enjoyer</p>
 
 ###
 
