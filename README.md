@@ -3,16 +3,16 @@
 
 ###
 
-<p align="left"> 🛠 Data scientist at Lamoda<br> 📖 Higher School of Economics student <br> 🔆 NLP & RecSys enjoyer</p>
+<p align="left"> 🛠 Data scientist at Lamoda<br> 📖 Higher School of Economics BSc degree <br> 🔆 RecSys & NLP enjoyer</p>
 
 ###
 
 <h2 align="left">Technical skills</h2>
 
-💻 **Programming & Deployment**: Python, SQL, Git                                                                                            
+💻 **Programming & Deployment**: Python, SQL, Git, Docker                                                                                           
 🔮 **ML & DL**: Scikit-learn, Catboost, Pytorch                                                                                               
 📝 **NLP**: Gensim, NLTK, spaCy, TorchText, Natasha, Pymorphy2, Transformers   
-📁 **Big Data**: Hadoop, Pyspark, Hive
+📁 **Big Data**: Hadoop, Airflow, Pyspark, Hive
 
 ###
 
