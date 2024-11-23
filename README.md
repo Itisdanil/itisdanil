@@ -3,5 +3,5 @@
 
 ###
 
-<p align="left"> 🛠 Senior Data scientist at Lamoda<br> 📖 Higher School of Economics BSc Computer Science & MSc Artificial Intelligence <br> 🔆 RecSys & NLP enjoyer</p>
+<p align="left"> 🛠 Senior Data Scientist at Lamoda<br> 📖 Higher School of Economics BSc Computer Science & MSc Artificial Intelligence <br> 🔆 RecSys & NLP enjoyer</p>
 
